@@ -1,5 +1,4 @@
 # Compiler For PsuedoCode Using Flex And Bison
-![image](https://github.com/AryanKulathinal/Compiler_For_Psuedocode-Using-Flex-and-Bison-/assets/116480303/4ad79223-4b75-4219-b41f-a5a73e0111b3)# Compiler_For_Psuedocode-Using-Flex-and-Bison-
 Developed a compiler for pesudocode using FLEX and BISON. Was successful in illustrating various phases of compilation by giving the output in each phase like TOKENS, SYMTAB, AST, INTERMEDIATE CODE, FINAL OUTPUT
 ## **INTRODUCTION**
 A compiler is a translator whose source language is a high-level language and whose object language is close to the machine language of an actual computer. Our aim is to design a compiler that compiles code that is written in pseudo code format. 
