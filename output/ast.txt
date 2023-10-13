@@ -1,0 +1,24 @@
+For
+    i = 
+        number    5
+    number    5
+    number   20
+    bad P
+
+
+n = 
+    number   30
+
+
+While
+    binop <
+        ref n
+        number   35
+    binop L
+        bad P
+        n = 
+            binop +
+                ref n
+                number    1
+
+

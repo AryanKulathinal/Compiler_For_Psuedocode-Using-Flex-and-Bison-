@@ -1,0 +1,25 @@
+l1:
+if i < 20 goto l2
+goto l3
+l2:
+r1 = i + 1
+i = r1
+goto l1
+l3:
+
+
+r2 = 30
+n = r2
+
+
+l4:
+r3 = n < 35
+if r3 goto l5
+goto l6
+l5:
+r4 = n + 1
+n = r4
+goto l4
+l6:
+
+
